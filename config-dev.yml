@@ -1,4 +1,6 @@
 info:
-   test:123456 This is test for springcloud config
+  test:
+    My name is chensanzi
+
 
 
